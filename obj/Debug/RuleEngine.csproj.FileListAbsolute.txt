@@ -1,0 +1,7 @@
+E:\Work Dev\Maximus\RuleEngine\RuleEngine\bin\Debug\RuleEngine.exe.config
+E:\Work Dev\Maximus\RuleEngine\RuleEngine\bin\Debug\RuleEngine.exe
+E:\Work Dev\Maximus\RuleEngine\RuleEngine\bin\Debug\RuleEngine.pdb
+E:\Work Dev\Maximus\RuleEngine\RuleEngine\obj\Debug\RuleEngine.csproj.AssemblyReference.cache
+E:\Work Dev\Maximus\RuleEngine\RuleEngine\obj\Debug\RuleEngine.csproj.CoreCompileInputs.cache
+E:\Work Dev\Maximus\RuleEngine\RuleEngine\obj\Debug\RuleEngine.exe
+E:\Work Dev\Maximus\RuleEngine\RuleEngine\obj\Debug\RuleEngine.pdb
